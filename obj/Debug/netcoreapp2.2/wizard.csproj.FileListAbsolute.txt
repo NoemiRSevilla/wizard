@@ -1,0 +1,11 @@
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/wizard/bin/Debug/netcoreapp2.2/wizard.deps.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/wizard/bin/Debug/netcoreapp2.2/wizard.runtimeconfig.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/wizard/bin/Debug/netcoreapp2.2/wizard.runtimeconfig.dev.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/wizard/bin/Debug/netcoreapp2.2/wizard.dll
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/wizard/bin/Debug/netcoreapp2.2/wizard.pdb
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/wizard/obj/Debug/netcoreapp2.2/wizard.csprojAssemblyReference.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/wizard/obj/Debug/netcoreapp2.2/wizard.csproj.CoreCompileInputs.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/wizard/obj/Debug/netcoreapp2.2/wizard.AssemblyInfoInputs.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/wizard/obj/Debug/netcoreapp2.2/wizard.AssemblyInfo.cs
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/wizard/obj/Debug/netcoreapp2.2/wizard.dll
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/wizard/obj/Debug/netcoreapp2.2/wizard.pdb
